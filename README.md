@@ -6,6 +6,7 @@
 <li>Most of the coding part is already done, however, some clues are left in between (comments //) where students can write their codes.</li>
 
 <li><b>matchCounter</b> will keep track of how many matches are played. A match is akin to answer one question.</li>
+  
 
 <li>If a player correctly answers a match, a one is added in the score array; otherwise, a zero will be added.</li>
 
